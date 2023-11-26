@@ -1,19 +1,28 @@
 
 # The Indian Start-up Funding Ecosystem
 
-# Hypothesis:
+### 1.1 Objective
 
-Null Hypothesis (H0): The average funding amount for Indian startups in 2021 is the same as the average funding amount in 2018.
+Understanding the Indian startup ecosystem  from **2018 to 2021**, and providing information about the funding to potential investors and other stakeholders like governments, enterprenuers, competitors etc who need this information for decision making.
 
-Alternate Hypothesis (H1): The average funding amount for Indian startups in 2021 is different from the average funding amount in 2018.
+### 1.2 Hypothesis
+**Null Hypothesis(Ho)** : The sector of a company does not have an impact on the amount of funding it receives.
 
-# Questions:
 
-1. What is the total funding amount received by Indian startups in the dataset for the entire period from 2018 to 2021?
-2. How does the distribution of funding amounts vary across different industries over the years?
-3. What are the top five cities or regions in India that attracted the most funding during this period?
-4. Can we identify any trends or patterns in the series or rounds of funding over the years?
-5. Are there any significant changes or trends in the geographical distribution of startup funding from 2018 to 2021 in the dataset?
+**Alternate Hypothesis(Ha)** : The sector of a company does have an impact on the amount of funding it receives
+
+### 1.3 Research Questions
+
+1. Which year has the highest amount of funding?
+
+2. Which sector received the highest amount of funding collectively?
+
+3. Which region has the most startups?
+
+4. Which Region received the most investment
+
+5. Top 10 companies with highest amount invested
+
 
 
 # Business Understanding:
